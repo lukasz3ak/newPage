@@ -1,0 +1,13 @@
+* {
+  margin: 0 auto;
+  max-width: 1140px;
+}
+
+ul {
+  list-style: none;
+  background-color: azure;
+}
+
+li {
+  display: inline;
+}
